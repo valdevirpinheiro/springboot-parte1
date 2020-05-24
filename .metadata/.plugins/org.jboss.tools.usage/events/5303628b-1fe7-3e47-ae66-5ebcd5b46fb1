@@ -1,0 +1,11 @@
+#Sun May 24 10:36:43 BRT 2020
+vl=How many times the 'Finish' button pressed during the day
+l=Wizard class name
+ct=jbt
+d=1590327401015
+c=0
+cmp=usage
+a=finishWizard
+cl=org.eclipse.datatools.sqltools.internal.sqlscrapbook.wizards.NewSQLScrapbookFileCreationWizard
+v=2.2.203
+s=0
